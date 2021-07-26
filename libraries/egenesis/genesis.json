@@ -289,7 +289,7 @@
   "initial_balances": [{
       "owner": "TSHGGu9gynghdmS8Q3wPQaHkj6LQ2dByL8Za",
       "asset_symbol": "TSH",
-      "amount": "100000000000"
+      "amount": "10000000000000000"
     }
   ],
   "initial_vesting_balances": [],
