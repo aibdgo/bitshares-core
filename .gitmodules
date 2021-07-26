@@ -2,3 +2,6 @@
     path = libraries/fc
     url = https://github.com/aibdgo/bitshares-fc.git
     ignore = dirty
+[submodule "docs"]
+	path = docs
+	url = https://github.com/aibdgo/bitshares-core.wiki.git
